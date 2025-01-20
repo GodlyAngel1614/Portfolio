@@ -22,3 +22,4 @@ My portfolio!
 https://github.com/user-attachments/assets/9c88b565-fe1d-4ea4-846f-d1d91e04f879
 
 ![Screenshot 2025-01-15 200720](https://github.com/user-attachments/assets/ba218ffd-63e9-4906-99a3-2becebf17122)
+![Screenshot 2025-01-08 163638](https://github.com/user-attachments/assets/c8497a9c-f534-44e6-b98e-545f3c4b5e4c)
