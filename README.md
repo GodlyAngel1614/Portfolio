@@ -4,20 +4,19 @@ My portfolio!
   Credits:
     All these systems were by my along with the uis for them
     
--- Main Menu 
+                          Main menu
 
 
 https://github.com/user-attachments/assets/4cd0c13d-2f78-4af6-bf69-906a5c9323c0
 
 
 
--- Horse System
+                      Horse System!
 
 
 https://github.com/user-attachments/assets/9c88b565-fe1d-4ea4-846f-d1d91e04f879
 
--- Donation System
-
+                      Donation System!
 
 
 https://github.com/user-attachments/assets/e0b3b182-89e0-4345-978c-0fd82f0d7361
