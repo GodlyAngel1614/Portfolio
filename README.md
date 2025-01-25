@@ -1,7 +1,14 @@
 # Portfolio
 My portfolio!
 
-![Screenshot 2024-12-29 221833](https://github.com/user-attachments/assets/790bfc8a-3641-45a6-baeb-24fd44e60638)
+  Credits:
+    All these systems were by my along with the uis for them
+    
+-- Main Menu 
+  https://github.com/user-attachments/assets/7fff72a4-d410-4a71-9a03-b367721e5b7c
+
+
+
 ![Screenshot 2024-12-29 221916](https://github.com/user-attachments/assets/fc920371-fc24-4f50-a42f-86defe8b22d1)
 ![Screenshot 2024-12-29 221943](https://github.com/user-attachments/assets/2697afaa-84e7-4b75-b84f-ca5c86c14292)
 ![Screenshot 2024-12-29 221952](https://github.com/user-attachments/assets/55668b66-eb3b-4b52-af29-2e9767cf5541)
