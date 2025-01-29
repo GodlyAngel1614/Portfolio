@@ -24,16 +24,19 @@ https://github.com/user-attachments/assets/e0b3b182-89e0-4345-978c-0fd82f0d7361
 
 
                             Bad Ending 
+                            
    -- This is a dialogue system along with a camera with an enemy NPC that's killed by a weapon with vfx effects and animations with a custom starter player with an ending screen
-
-   
-
 
 
 https://github.com/user-attachments/assets/5b2c4e38-5bd9-4d01-8132-afdb4288397d
 
 
+                  Basic Get Pet without UI
                   
+
+https://github.com/user-attachments/assets/950bfcc5-9b91-4196-a1cf-2892b6e3cd85
+
+
 
 
 ![Screenshot 2024-12-29 221916](https://github.com/user-attachments/assets/fc920371-fc24-4f50-a42f-86defe8b22d1)
