@@ -4,11 +4,15 @@ My portfolio!
 Credits:
     All these systems were by my along with the uis for them and animations (I am not an animator first and foremost so these animations aren't of the highest quality)
 
-                       Simulator Showcase
+                       Simulator Showcase + Shop
 
                        
 
 https://github.com/user-attachments/assets/65a98f63-6642-4c8e-a919-167eabb25b0e
+
+
+
+https://github.com/user-attachments/assets/073e5bb6-21ee-4c24-93cd-7af2f2466f76
 
 
 
