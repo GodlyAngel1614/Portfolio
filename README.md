@@ -1,9 +1,18 @@
 # Portfolio
 My portfolio!
 
-  Credits:
+Credits:
     All these systems were by my along with the uis for them and animations (I am not an animator first and foremost so these animations aren't of the highest quality)
 
+                       Simulator Showcase
+
+                       
+
+https://github.com/user-attachments/assets/65a98f63-6642-4c8e-a919-167eabb25b0e
+
+
+
+  
                             Comabt System Showcase
                             Punch/Kick/Dash/Blast Using the keys (Q, 1, 2, 3)
                 
