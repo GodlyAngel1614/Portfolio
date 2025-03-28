@@ -1,8 +1,50 @@
 # Portfolio
 My portfolio!
 
-Credits:
-    All these systems were by my along with the uis for them and animations (I am not an animator first and foremost so these animations aren't of the highest quality)
+
+              Cozy Game Showcase
+                 Credits:
+                 -- UI: Me/Bunny
+                 -- Builds: Me/Bunny
+                 -- Sounds: From toolbox
+                 -- Terrain like the trees and bushes and insects: From toolbox
+                 -- Terrain Design: Me/Bunny
+                 -- Any and all effects: From toolbox
+
+    -- Main Menu
+    
+ https://github.com/user-attachments/assets/70a07b45-88f6-4297-989a-e35794231627
+
+
+    
+    -- Renting farms 
+
+    
+
+https://github.com/user-attachments/assets/29f13578-747b-4aff-afbd-dacdfe89f7ef
+
+
+
+    -- Shopping System
+
+
+https://github.com/user-attachments/assets/c215e43c-fa63-4de8-955c-ce4462831072
+
+
+    -- Talking with npcs
+
+    
+
+https://github.com/user-attachments/assets/c19835b0-998c-4336-a1fe-83eaf942e97e
+
+
+    -- Quest/Taskbar (use tab on pc and the X button on phone)
+
+
+https://github.com/user-attachments/assets/691b1afc-21ae-47c8-82cf-69b894e4ffea
+
+
+    
 
                        Simulator Showcase + Shop
 
