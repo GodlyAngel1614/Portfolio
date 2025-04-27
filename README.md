@@ -53,15 +53,13 @@ https://github.com/user-attachments/assets/691b1afc-21ae-47c8-82cf-69b894e4ffea
                  -- Models: Basic rigs.
                  -- Any and all effects: From toolbox
 
-    -- Turn based system 
+    -- Turn based system (one npc)
 
 https://github.com/user-attachments/assets/af55abd2-a074-4385-aa88-d53667030219
 
     -- Npc AI with effects and attribute system, and multi-level damage
 
       -- Basic Npc with bleeding (Attribute/Effect) with -5 health * 8
-
-      
       
 
 https://github.com/user-attachments/assets/4aad34e7-f604-41de-8d0d-7fa3888260fd
@@ -131,6 +129,11 @@ https://github.com/user-attachments/assets/950bfcc5-9b91-4196-a1cf-2892b6e3cd85
               Basic racing Game Showcase
 
 
+               Garage System 
+
+               Queue System
+
+               
 
 
 
