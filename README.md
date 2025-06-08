@@ -35,6 +35,9 @@ https://github.com/user-attachments/assets/c215e43c-fa63-4de8-955c-ce4462831072
 
     
 
+
+
+
 https://github.com/user-attachments/assets/c19835b0-998c-4336-a1fe-83eaf942e97e
 
 
@@ -65,7 +68,13 @@ https://github.com/user-attachments/assets/af55abd2-a074-4385-aa88-d53667030219
 https://github.com/user-attachments/assets/4aad34e7-f604-41de-8d0d-7fa3888260fd
 
 
-      
+
+
+
+      Npc stuff
+https://github.com/user-attachments/assets/331b7f18-2c2d-4169-bba7-67da0d887751
+
+
   
                        Simulator Showcase + Shop
 
